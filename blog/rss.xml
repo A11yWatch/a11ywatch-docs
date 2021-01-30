@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>A11ywatch Blog</title>
+        <title>A11yWatch Blog</title>
         <link>https://a11ywatch.github.io/a11ywatch-docs/blog</link>
-        <description>A11ywatch Blog</description>
+        <description>A11yWatch Blog</description>
         <lastBuildDate>Sat, 30 Jan 2021 05:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
