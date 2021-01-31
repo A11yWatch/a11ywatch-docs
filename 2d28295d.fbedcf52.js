@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{76:function(o){o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Documentation Launch","permalink":"/a11ywatch-docs/blog/docs"}]}')}}]);
