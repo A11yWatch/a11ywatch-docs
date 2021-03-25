@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>A11yWatch Blog</title>
-        <link>https://a11ywatch.github.io/docs/blog</link>
+        <link>https://a11ywatch.github.io/blog</link>
         <description>A11yWatch Blog</description>
         <lastBuildDate>Sat, 30 Jan 2021 05:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Documentation Launch]]></title>
-            <link>https://a11ywatch.github.io/docs/blog/docs</link>
+            <link>https://a11ywatch.github.io/blog/docs</link>
             <guid>docs</guid>
             <pubDate>Sat, 30 Jan 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[Start of A11ywatch documentation. To better support all things a11ywatch.]]></description>
